@@ -1,3 +1,12 @@
 h1{
     color:burlywood;
+    background-color: color-mix(in xyz, rgb(240, 240, 152), blue 12%);
+}
+h3{
+    color: darkgreen;
+    background-color: antiquewhite;
+}
+p{
+    color: chocolate;
+    background-color: aqua;
 }
